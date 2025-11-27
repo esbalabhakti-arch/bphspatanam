@@ -437,7 +437,33 @@ const chapters = [
   },
    //Chapter Ends
  
- //New Chapter begins 
+                //New Chapter begins
+  {
+    id: "ch1_12",
+    title: "Chapter 1 - Ending Podcast",
+    description:
+      "Ending podcast verses 9 to 24 flow",
+    audio: [
+
+		{ label: "Chapter 1 Ending Podcast with story", file: "audio/Chapter1/Chap1_Ending.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch1_v12",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter1/Chap1_Ending_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter1/Chap1_Ending_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+	
+	//New Chapter begins 
  {
 id: "ch3_v46-v48",
     title: "Chapter 3 – Graha-svabhāva-adhyāyaḥ - Verses 46to48",
@@ -464,3 +490,4 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
