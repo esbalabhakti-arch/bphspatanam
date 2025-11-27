@@ -323,9 +323,9 @@ const chapters = [
         id: "ch1_v7",
         type: "Verses",
         sanskrit:
-		"<img src='images/Chapter1/Chap1_v19_v21_fr.jpg' />",
+		"<img src='images/Chapter1/Chap1_v18_v21_fr.jpg' />",
         translation:
-		"<img src='images/Chapter1/Chap1_v19_v21_bk.jpg' />",
+		"<img src='images/Chapter1/Chap1_v18_v21_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -462,4 +462,5 @@ id: "ch3_v46-v48",
 ]
 }
  //Chapter Ends
+
 ];
