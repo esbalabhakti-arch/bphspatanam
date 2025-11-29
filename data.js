@@ -497,7 +497,7 @@ const chapters = [
       "why incarnations occur and assign each major avatāra to its corresponding graha.",
     audio: [
 
-		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter2/Chap2_v4_v6.opus" }
+		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter2/Chap2_v4_v6.ogg" }
     ],
     cards: [
       
@@ -542,6 +542,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
