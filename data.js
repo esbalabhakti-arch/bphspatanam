@@ -471,7 +471,7 @@ const chapters = [
       "āma, Kṛṣṇa, Narasiṁha, and Varāha are full incarnations of Vishnu, while others are partial, and that Vishnu Himself becomes the grahas to deliver karma",
     audio: [
 
-		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter1/Chap2_v1_v3.opus" }
+		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter2/Chap2_v1_v3.opus" }
     ],
     cards: [
       
@@ -516,5 +516,6 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
