@@ -468,7 +468,7 @@ const chapters = [
     id: "ch2_1",
     title: "Chapter 2 - Verses 1 to 3",
     description:
-      "āma, Kṛṣṇa, Narasiṁha, and Varāha are full incarnations of Vishnu, while others are partial, and that Vishnu Himself becomes the grahas to deliver karma",
+      "Rāma, Kṛṣṇa, Narasiṁha, and Varāha are full incarnations of Vishnu, while others are partial, and that Vishnu Himself becomes the grahas to deliver karma",
     audio: [
 
 		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter2/Chap2_v1_v3.opus" }
@@ -482,6 +482,32 @@ const chapters = [
 		"<img src='images/Chapter2/Chap2_v1_v3_fr.jpg' />",
         translation:
 		"<img src='images/Chapter2/Chap2_v1_v3_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+		                //New Chapter begins
+  {
+    id: "ch2_2",
+    title: "Chapter 2 - Verses 4 to 6",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 2 Verses 1 to 3", file: "audio/Chapter2/Chap2_v4_v6.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_v1",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chap2_v4_v6_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chap2_v4_v6_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -516,6 +542,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
