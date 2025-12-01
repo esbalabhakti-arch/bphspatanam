@@ -566,6 +566,59 @@ const chapters = [
     ]
   },
    //Chapter Ends
+
+	//New Chapter begins
+  {
+    id: "ch2_5",
+    title: "Chapter 2 - Story - Understanding Cosmic Architecture",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 2 Story 1 - Cosmology Architecture", file: "audio/Chapter2/Chap2_Story1.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_v5",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chap2_story1_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chap2_story1_fr.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+		//New Chapter begins
+  {
+    id: "ch2_6",
+    title: "Chapter 2 - Missing Game - What if",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 2 Story 2 - Missing Game", file: "audio/Chapter2/Chap2_Story2_missingGame.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_v6",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chap2_story_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chap2_story_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+	
 	//New Chapter begins 
  {
 id: "ch3_v46-v48",
@@ -593,6 +646,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
