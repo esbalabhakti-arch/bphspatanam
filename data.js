@@ -154,7 +154,7 @@ const chapters = [
 				//New Chapter begins
   {
     id: "ch0_7",
-    title: "Lord Shiva & Astrology connection",
+    title: "Chapter 0 - Lord Shiva & Astrology connection",
     description:
       "why incarnations occur and assign each major avatāra to its corresponding graha.",
     audio: [
@@ -180,7 +180,7 @@ const chapters = [
 					//New Chapter begins
   {
     id: "ch0_8",
-    title: "Jyotisa - the Moment a soul arrives",
+    title: "Chapter 0 - Jyotisa - the Moment a soul arrives",
     description:
       "why incarnations occur and assign each major avatāra to its corresponding graha.",
     audio: [
@@ -206,7 +206,7 @@ const chapters = [
 						//New Chapter begins
   {
     id: "ch0_9",
-    title: " Metaphor for Jyotisa - Life as a busy city",
+    title: "Chapter 0 - Metaphor for Jyotisa - Life as a busy city",
     description:
       "why incarnations occur and assign each major avatāra to its corresponding graha.",
     audio: [
@@ -880,6 +880,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
