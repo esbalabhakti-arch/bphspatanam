@@ -619,7 +619,59 @@ const chapters = [
   },
    //Chapter Ends
 
-		//New Chapter begins
+			//New Chapter begins
+  {
+    id: "ch2_7",
+    title: "Chapter 2 - Graha becomes Avatara",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 2 Special - Graha Becomes Avatara", file: "audio/Chapter2/Chap2_GrahaToAvatara.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_v7",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chapter2_GrahaBecomesIntoAvatara.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chapter2_GrahaBecomesIntoAvatara_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch2_8",
+    title: "Chapter 2 - What about Lord Shiva?",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 2 Special - What about Lord Shiva?", file: "audio/Chapter2/Chap2_AboutLordShiva.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_v8",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+	
+	//New Chapter begins
   {
     id: "ch3_1",
     title: "Chapter 3 - Verses 1 to 3",
@@ -645,6 +697,57 @@ const chapters = [
   },
    //Chapter Ends
 
+	//New Chapter begins
+  {
+    id: "ch3_2",
+    title: "Chapter 3 - Verses 4 to 6",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 4 to 6", file: "audio/Chapter3/Chap3_v4_v6.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v2",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v4_v6_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chap3_v4_v6_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends	
+
+		//New Chapter begins
+  {
+    id: "ch3_3",
+    title: "Chapter 3 - Verses 7 to 9",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 7 to 9", file: "audio/Chapter3/Chap3_v7_v9.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v3",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v7_v9_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chap3_v7_v9_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
 	
 	//New Chapter begins 
  {
@@ -673,6 +776,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
