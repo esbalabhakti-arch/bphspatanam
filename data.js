@@ -150,7 +150,85 @@ const chapters = [
     ]
   },
    //Chapter Ends
-   
+
+				//New Chapter begins
+  {
+    id: "ch0_7",
+    title: "Lord Shiva & Astrology connection",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Shiva, the Horoscope, & the mystery of 56/100", file: "audio/Chapter0/Chap0_Shiva.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch0_v7",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+					//New Chapter begins
+  {
+    id: "ch0_8",
+    title: "Jyotisa - the Moment a soul arrives",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Jyotisa - the Moment a soul arrives", file: "audio/Chapter0/Chap0_Jyotish_SoulMoment.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch0_v8",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+						//New Chapter begins
+  {
+    id: "ch0_9",
+    title: " Metaphor for Jyotisa - Life as a busy city",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Life as a busy city", file: "audio/Chapter0/Chap0_LifeAsBusyCity.opus" }
+    ],
+    cards: [
+      
+  {
+        id: "ch0_v9",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        translation:
+		"<img src='images/Chapter2/Chapter2_whatAboutLordShiva.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+	
    //New Chapter begins
   {
     id: "ch1_1",
@@ -802,6 +880,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
