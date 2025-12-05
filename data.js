@@ -767,7 +767,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter3/Chap3_v1_v3_fr.jpg' />",
         translation:
-		"<img src='images/Chapter2/Chap3_v1_v3_bk.jpg' />",
+		"<img src='images/Chapter3/Chap3_v1_v3_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -793,7 +793,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter3/Chap3_v4_v6_fr.jpg' />",
         translation:
-		"<img src='images/Chapter2/Chap3_v4_v6_bk.jpg' />",
+		"<img src='images/Chapter3/Chap3_v4_v6_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -819,7 +819,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter3/Chap3_v7_v9_fr.jpg' />",
         translation:
-		"<img src='images/Chapter2/Chap3_v7_v9_bk.jpg' />",
+		"<img src='images/Chapter3/Chap3_v7_v9_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -845,7 +845,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter3/Chap3_v10_v12_fr.jpg' />",
         translation:
-		"<img src='images/Chapter2/Chap3_v10_v12_bk.jpg' />",
+		"<img src='images/Chapter3/Chap3_v10_v12_bk.jpg' />",
         wordByWord:
     " " 
       },
@@ -880,6 +880,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
