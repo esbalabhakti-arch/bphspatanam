@@ -1007,6 +1007,58 @@ const chapters = [
     ]
   },
    //Chapter Ends
+
+	//New Chapter begins
+  {
+    id: "ch3_11",
+    title: "Chapter 3 - Verses 31 to 33",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 31 to 33", file: "audio/Chapter3/Chap3_v31_v33.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v11",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v31_v33_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter3/Chap3_v31_v33_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+//New Chapter begins
+  {
+    id: "ch3_12",
+    title: "Chapter 3 - Verses 34 to 36",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 34 to 36", file: "audio/Chapter3/Chap3_v34_v36.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v12",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v34_v36_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter3/Chap3_v34_v36_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
 	
 	//New Chapter begins 
  {
@@ -1035,6 +1087,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
