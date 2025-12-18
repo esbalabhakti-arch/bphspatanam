@@ -1137,6 +1137,32 @@ const chapters = [
     ]
   },
    //Chapter Ends
+
+	//New Chapter begins
+  {
+    id: "ch3_16",
+    title: "Chapter 3 - Verses 46 to 48",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 46 to 48", file: "audio/Chapter3/Chap3_v46_v48.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v16",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v46_v48_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter3/Chap3_v46_v48_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
 	
 	//New Chapter begins 
  {
@@ -1165,6 +1191,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
