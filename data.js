@@ -1163,6 +1163,188 @@ const chapters = [
     ]
   },
    //Chapter Ends
+
+	//New Chapter begins
+  {
+    id: "ch3_17",
+    title: "Chapter 3 - Verses 49 to 51",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 Verses 49 to 51", file: "audio/Chapter3/Chap3_v49_v51.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v17",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v49_v51_fr.jpg' />",
+        translation:
+		"<img src='images/Chapter3/Chap3_v49_v51_bk.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+		//New Chapter begins
+  {
+    id: "ch3_18",
+    title: "Chapter 3 - Reflection#1 - Pause & Pivot",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#1 - Pause & Pivot", file: "audio/Chapter3/Chap3_ref_1.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v18",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch3_19",
+    title: "Chapter 3 - Reflection#2 - 3 Stories Podcast",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#2 - 3 stories Podcast", file: "audio/Chapter3/Chap3_ref_2.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v19",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch3_20",
+    title: "Chapter 3 - Reflection#3 - integratrating Grahas, Rāśis, jīva, sākṣī ",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#3 - integratrating Grahas, Rāśis, jīva, sākṣī", file: "audio/Chapter3/Chap3_ref_3.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v20",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch3_21",
+    title: "Chapter 3 - Reflection#4 - Why Astrology Works Like Physics",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#4 - Why Astrology Works Like Physics", file: "audio/Chapter3/Chap3_ref_4.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v21",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch3_22",
+    title: "Chapter 3 - Reflection#5 - Intuition for definitions for Grahas and Rasis",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#5 - Intuition for definitions for Grahas and Rasis", file: "audio/Chapter3/Chap3_ref_5.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v22",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+
+			//New Chapter begins
+  {
+    id: "ch3_23",
+    title: "Chapter 3 - Reflection#6 - Time isn't a river: Feynman, Parasara, and the Path to Sakshi Bhava",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Reflection#6 - Time isn't a river: Feynman, Parasara, and the Path to Sakshi Bhava", file: "audio/Chapter3/Chap3_ref_6.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v23",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        translation:
+		"<img src='images/Chapter3/sage_Parashara.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
 	
 	//New Chapter begins 
  {
@@ -1191,6 +1373,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
