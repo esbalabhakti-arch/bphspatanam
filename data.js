@@ -1345,6 +1345,32 @@ const chapters = [
     ]
   },
    //Chapter Ends
+
+				//New Chapter begins
+  {
+    id: "ch3_24",
+    title: "Chapter 3 - Verse#11 Deep Dive - Why Parashara introduces Malefics & Benefics",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		{ label: "Chapter 3 - Verse#11 Deep Dive - Why Parashara introduces Malefics & Benefics", file: "audio/Chapter3/Chap3_v11_deepdive.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch3_v24",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter3/Chap3_v11_deepdive.jpg' />",
+        translation:
+		"<img src='images/Chapter3/Chap3_v11_deepdive.jpg' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
 	
 	//New Chapter begins 
  {
@@ -1373,6 +1399,7 @@ id: "ch3_v46-v48",
  //Chapter Ends
 
 ];
+
 
 
 
