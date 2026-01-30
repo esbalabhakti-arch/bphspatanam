@@ -1390,7 +1390,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter2/Chap2_qa.pdf' />",
         translation:
-		"<img src='images/Chapter2/Chap2_full' />",
+		"<img src='images/Chapter2/Chap2_full.pdf' />",
         wordByWord:
     " " 
       },
@@ -1415,7 +1415,7 @@ const chapters = [
         sanskrit:
 		"<img src='images/Chapter1/Chap1_qa.pdf' />",
         translation:
-		"<img src='images/Chapter1/Chap1_full' />",
+		"<img src='images/Chapter1/Chap1_full.pdf' />",
         wordByWord:
     " " 
       },
@@ -1423,6 +1423,7 @@ const chapters = [
   }
    //Chapter Ends
 ];
+
 
 
 
