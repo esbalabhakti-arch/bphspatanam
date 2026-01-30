@@ -1371,34 +1371,63 @@ const chapters = [
     ]
   },
    //Chapter Ends
-	
-	//New Chapter begins 
- {
-id: "ch3_v46-v48",
-    title: "Chapter 3 – Graha-svabhāva-adhyāyaḥ - Verses 46to48",
+
+					//New Chapter begins
+  {
+    id: "ch2_qa",
+    title: "Chapter 2 - Q&A - Summary",
     description:
-      "Full nature of the grahas-qualities, forms, powers, and seasons - V46-48:seasonal rulerships, Ayurvedic classifications, and Saturn’s role as the giver of longevity ",
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
     audio: [
-          { label: "Chapter 3 – Podcast Verse46-48", file: "audio//Chapter3/Chap3_Podcast_Verse46to48.opus" },
+
+		//{ label: "Q&A", file: "audio/Chapter3/Chap3_v11_deepdive.ogg" }
     ],
     cards: [
-      {
-        id: "ch3_v46-48",
-        //type: "verse",
-        //verseNumber: 46,
+      
+  {
+        id: "ch2_qa",
+        type: "Verses",
         sanskrit:
-		"<img src='images/Chapter3/348fr_Chap3_Verse46to48.jpg' />",
-        //hint: "Opening scene – who bows and to whom?",
+		"<img src='images/Chapter2/Chap2_qa.pdf' />",
         translation:
-		"<img src='images/Chapter3/348bk_Chap3_Verse46to48.jpg' />",
+		"<img src='images/Chapter2/Chap2_full' />",
         wordByWord:
-" "
-      }
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+					//New Chapter begins
+  {
+    id: "ch1_qa",
+    title: "Chapter 1 - Q&A - Summary",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		//{ label: "Q&A", file: "audio/Chapter3/Chap3_v11_deepdive.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch1_qa",
+        type: "Verses",
+        sanskrit:
+		"<img src='images/Chapter1/Chap1_qa.pdf' />",
+        translation:
+		"<img src='images/Chapter1/Chap1_full' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  }
+   //Chapter Ends
 ]
 }
  //Chapter Ends
 
 ];
+
 
 
 
