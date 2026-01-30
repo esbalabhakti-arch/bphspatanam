@@ -1422,10 +1422,6 @@ const chapters = [
     ]
   }
    //Chapter Ends
-]
-}
- //Chapter Ends
-
 ];
 
 
