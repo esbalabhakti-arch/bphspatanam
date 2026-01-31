@@ -1388,9 +1388,9 @@ const chapters = [
         id: "ch1_qa",
         type: "Verses",
 	  sanskrit:
- 		"<embed src='images/Chapter1/Chap1_qa.pdf' type='application/pdf' width='100%' height='600px' />",
+		"<a href='images/Chapter1/Chap1_qa.pdf' target='_blank'>📄 Open Chapter 1 Q&A PDF</a>",
         translation:
-		"<embed src='images/Chapter1/Chap1_full.pdf' type='application/pdf' width='100%' height='600px' />",
+		"<a href='images/Chapter1/Chap1_full.pdf' target='_blank'>📄 Open Chapter 1 summary PDF</a>",
         wordByWord:
     " " 
       },
@@ -1413,9 +1413,9 @@ const chapters = [
         id: "ch2_qa",
         type: "Verses",
 	  sanskrit:
- 		"<embed src='images/Chapter2/Chap2_qa.pdf' type='application/pdf' width='100%' height='600px' />",
+		"<a href='images/Chapter2/Chap2_qa.pdf' target='_blank'>📄 Open Chapter 2 Q&A PDF</a>",
         translation:
-		"<embed src='images/Chapter2/Chap2_full.pdf' type='application/pdf' width='100%' height='600px' />",
+		"<a href='images/Chapter2/Chap2_full.pdf' target='_blank'>📄 Open Chapter 2 summary PDF</a>",
         wordByWord:
     " " 
       },
@@ -1423,6 +1423,7 @@ const chapters = [
   }
    //Chapter Ends
 ];
+
 
 
 
