@@ -1374,31 +1374,6 @@ const chapters = [
 
 					//New Chapter begins
   {
-    id: "ch2_qa",
-    title: "Chapter 2 - Q&A - Summary",
-    description:
-      "why incarnations occur and assign each major avatāra to its corresponding graha.",
-    audio: [
-
-		//{ label: "Q&A", file: "audio/Chapter3/Chap3_v11_deepdive.ogg" }
-    ],
-    cards: [
-      
-  {
-        id: "ch2_qa",
-        type: "Verses",
-        sanskrit:
-		"<img src='images/Chapter2/Chap2_qa.pdf' />",
-        translation:
-		"<img src='images/Chapter2/Chap2_full.pdf' />",
-        wordByWord:
-    " " 
-      },
-    ]
-  },
-   //Chapter Ends
-					//New Chapter begins
-  {
     id: "ch1_qa",
     title: "Chapter 1 - Q&A - Summary",
     description:
@@ -1412,10 +1387,35 @@ const chapters = [
   {
         id: "ch1_qa",
         type: "Verses",
-        sanskrit:
-		"<img src='images/Chapter1/Chap1_qa.pdf' />",
+	  sanskrit:
+ 		"<embed src='images/Chapter1/Chap1_qa.pdf' type='application/pdf' width='100%' height='600px' />",
         translation:
-		"<img src='images/Chapter1/Chap1_full.pdf' />",
+		"<embed src='images/Chapter1/Chap1_full.pdf' type='application/pdf' width='100%' height='600px' />",
+        wordByWord:
+    " " 
+      },
+    ]
+  },
+   //Chapter Ends
+					//New Chapter begins
+  {
+    id: "ch2_qa",
+    title: "Chapter 2 - Q&A - Summary",
+    description:
+      "why incarnations occur and assign each major avatāra to its corresponding graha.",
+    audio: [
+
+		//{ label: "Q&A", file: "audio/Chapter3/Chap3_v11_deepdive.ogg" }
+    ],
+    cards: [
+      
+  {
+        id: "ch2_qa",
+        type: "Verses",
+	  sanskrit:
+ 		"<embed src='images/Chapter2/Chap2_qa.pdf' type='application/pdf' width='100%' height='600px' />",
+        translation:
+		"<embed src='images/Chapter2/Chap2_full.pdf' type='application/pdf' width='100%' height='600px' />",
         wordByWord:
     " " 
       },
@@ -1423,6 +1423,7 @@ const chapters = [
   }
    //Chapter Ends
 ];
+
 
 
 
